@@ -1,0 +1,23 @@
+# Define Project Naming Conventions
+
+This file is for team member to understand which style we are going to use in this project 
+
+## Table Content
+
+- General Principal
+- Table Naming Convention
+    - Bronze Layer
+    - Silver Layer
+    - Gold Layer
+- Column Naming  Convention
+    - Surrogate Key
+    - Technical Column
+- Stored Procedure
+
+---
+
+## General Principal
+
+Name Convention: Use ‘snake case’ , using lower case letters and underscore (_) to separate the  words.
+
+ Avoid the Reserve Word:  Do not use SQL reserved words as object names.
